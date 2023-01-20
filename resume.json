@@ -1,0 +1,25 @@
+{
+    "Name": "J.Umapathy",
+    "Age": 24,
+    "DOB": "12-06-1999",
+    "MOBILE-NO": [
+        "9176324865",
+        "8637439530"
+    ],
+    "Skills": [
+        "HTML",
+        "CSS",
+        "JS"
+    ],
+    "DEGREES": {
+        "UG": "B.sc in COMPUTER SCIENCE",
+        "PG": "MCA"
+    },
+    "ADDRESS": "Chennai - Tamilnadu",
+    "Yrs of Exp in IT": 4,
+    "Hobbies": [
+        "Exercising",
+        "Reading Books",
+        "Coding"
+    ]
+}
